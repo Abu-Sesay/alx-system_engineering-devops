@@ -1,1 +1,1 @@
-script that displays the first ten lines of /etc/passwds
+script that displays echo "Best School" | cat > '\*\\'"Best School"\'\\*$\?\*\*\*\*\*:)
