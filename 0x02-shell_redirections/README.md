@@ -1,1 +1,1 @@
-script that reverse its input
+script that removes all letteer c and C
