@@ -1,1 +1,1 @@
-script that count the number of directory in PATH
+script that prints global variables
