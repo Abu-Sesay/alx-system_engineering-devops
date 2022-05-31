@@ -1,1 +1,1 @@
-script that displays 10 newest files in the current directory
+script that reverse its input
