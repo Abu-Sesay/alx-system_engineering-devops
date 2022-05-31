@@ -1,1 +1,1 @@
-Displays all the charaster of a file
+Displays the lines in the file that contain the same pattern
