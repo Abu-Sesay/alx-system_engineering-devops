@@ -1,1 +1,1 @@
-script that prints global variables
+script tha create new local variables
