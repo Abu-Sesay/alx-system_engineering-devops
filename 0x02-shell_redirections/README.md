@@ -1,1 +1,1 @@
-replace all characters
+Displays all the charaster of a file
