@@ -1,1 +1,1 @@
-script that displays echo "Best School" | cat > '\*\\'"Best School"\'\\*$\?\*\*\*\*\*:)
+script that displays 10 newest files in the current directory
