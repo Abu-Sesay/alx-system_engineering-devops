@@ -1,1 +1,1 @@
-script that add /action to path.
+script that count the number of directory in PATH
