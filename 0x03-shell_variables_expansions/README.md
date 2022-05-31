@@ -1,1 +1,1 @@
-script that display the result of BREATH to the pover of LOVE
+script that display the result of POWER divided by DIVIDE
