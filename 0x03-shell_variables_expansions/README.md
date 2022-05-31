@@ -1,1 +1,1 @@
-script that prints hello user, where user is the current user.
+script that add /action to path.
