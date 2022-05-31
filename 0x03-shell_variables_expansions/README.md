@@ -1,1 +1,1 @@
-script tha create global variables
+script that display the result of BREATH to the pover of LOVE
