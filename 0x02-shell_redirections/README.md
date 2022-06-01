@@ -1,1 +1,1 @@
-Displays the lines in the file that contain the same pattern
+script that deletes all the regular files with .js ectension
