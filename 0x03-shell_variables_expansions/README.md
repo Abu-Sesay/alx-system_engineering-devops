@@ -1,1 +1,1 @@
-script that prints a value with 2 decimal places
+script that prints all possible combinations
