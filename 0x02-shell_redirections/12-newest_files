@@ -1,2 +1,2 @@
 #!/bin/bash
-ls -i | head
+file /tmp/iamafile
