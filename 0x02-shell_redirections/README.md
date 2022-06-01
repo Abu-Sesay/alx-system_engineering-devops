@@ -1,1 +1,1 @@
-script that displays a confused smiley "(Ôo)'
+script that deletes regular files with the extension .js
