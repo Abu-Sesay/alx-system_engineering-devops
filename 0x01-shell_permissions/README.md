@@ -1,1 +1,1 @@
-Write a script that prints the current user.
+Write a script that changes the owner of the file hello to betty.
