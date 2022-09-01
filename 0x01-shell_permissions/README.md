@@ -1,1 +1,1 @@
-Write a script that adds excutable permission to the owner, the group owner and other users.
+Write a script that set all the permissions only for other users.
