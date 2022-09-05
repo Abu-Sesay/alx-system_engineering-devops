@@ -1,1 +1,1 @@
-To display the content of the file etc/passwd.
+To display the content of the files etc/passwd and /etc/hosts.
