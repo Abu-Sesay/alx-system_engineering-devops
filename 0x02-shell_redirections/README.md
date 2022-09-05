@@ -1,1 +1,1 @@
-Write a script that print confused smiley
+To display the content of the file etc/passwd.
